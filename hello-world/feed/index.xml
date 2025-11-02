@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Blog Post Title	</title>
-	<atom:link href="https://anaconsultmar.com/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>https://anaconsultmar.com/hello-world/</link>
+	<atom:link href="https://vnuserx.github.io/anaconsultmar-stage-build/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vnuserx.github.io/anaconsultmar-stage-build/hello-world/</link>
 	<description>Welcome those whose PRIORITY is environment, safety and quality! </description>
 	<lastBuildDate>Thu, 04 Oct 2018 15:54:17 +0000</lastBuildDate>
 	<sy:updatePeriod>

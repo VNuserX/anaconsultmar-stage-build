@@ -5,4 +5,4 @@
 	symlinks = false
 	ignorecase = true
 [remote "origin"]
-	url = git@github.com:VNuserX/anaconsultmar.com.git
+	url = git@github.com:VNuserX/vnuserx.github.io/anaconsultmar-stage-build.git

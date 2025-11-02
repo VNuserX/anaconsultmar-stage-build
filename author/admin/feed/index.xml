@@ -9,8 +9,8 @@
 
 <channel>
 	<title>admin &#8211; ANAConsultmar</title>
-	<atom:link href="https://anaconsultmar.com/author/admin/feed/" rel="self" type="application/rss+xml" />
-	<link>https://anaconsultmar.com/</link>
+	<atom:link href="https://vnuserx.github.io/anaconsultmar-stage-build/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vnuserx.github.io/anaconsultmar-stage-build/</link>
 	<description>Welcome those whose PRIORITY is environment, safety and quality! </description>
 	<lastBuildDate>Thu, 04 Oct 2018 15:54:17 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 <image>
-	<url>https://anaconsultmar.com/wp-content/uploads/2018/10/cropped-Logo-white-32x32.jpg</url>
+	<url>https://vnuserx.github.io/anaconsultmar-stage-build/wp-content/uploads/2018/10/cropped-Logo-white-32x32.jpg</url>
 	<title>admin &#8211; ANAConsultmar</title>
-	<link>https://anaconsultmar.com/</link>
+	<link>https://vnuserx.github.io/anaconsultmar-stage-build/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Blog Post Title</title>
-		<link>https://anaconsultmar.com/hello-world/</link>
-					<comments>https://anaconsultmar.com/hello-world/#respond</comments>
+		<link>https://vnuserx.github.io/anaconsultmar-stage-build/hello-world/</link>
+					<comments>https://vnuserx.github.io/anaconsultmar-stage-build/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 04 Oct 2018 15:54:17 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://anaconsultmar.com/?p=1</guid>
+		<guid isPermaLink="false">https://vnuserx.github.io/anaconsultmar-stage-build/?p=1</guid>
 
 					<description><![CDATA[What goes into a blog post? Helpful, industry-specific content that: 1) gives readers a useful takeaway, and 2) shows you&#8217;re an industry expert. Use your company&#8217;s blog posts to opine on current industry topics, humanize your company, and show how your products and services can help people.]]></description>
 										<content:encoded><![CDATA[<p>What goes into a blog post? Helpful, industry-specific content that: 1) gives readers a useful takeaway, and 2) shows you&#8217;re an industry expert. </p>
 <p>Use your company&#8217;s blog posts to opine on current industry topics, humanize your company, and show how your products and services can help people.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://anaconsultmar.com/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://vnuserx.github.io/anaconsultmar-stage-build/hello-world/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
